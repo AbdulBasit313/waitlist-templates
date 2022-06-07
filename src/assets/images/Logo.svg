@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321.502" height="74.405" viewBox="0 0 321.502 74.405">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0.471" y1="0.799" x2="1.011" y2="0.016" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffab00"/>
+      <stop offset="1" stop-color="#ffc800"/>
+    </linearGradient>
+  </defs>
+  <g id="logo" transform="translate(-21.642 -18.922)">
+    <path id="Path_81" data-name="Path 81" d="M51.478,52.592l35.05-23.64a1.821,1.821,0,0,1,2.843,1.531L88.953,72.15h-.109c-5.869.31-12.8-1.258-19.521-4.374C60.865,63.838,54.322,58.006,51.478,52.592ZM87.385,76.16a47.864,47.864,0,0,1-19.721-4.794c-9.223-4.3-16.149-10.426-19.484-16.55L30.354,66.846a1.834,1.834,0,0,0,.784,3.336l29.928,4.065A7.329,7.329,0,0,1,65.6,76.688L85.49,99.417A1.832,1.832,0,0,0,88.7,98.232l.219-22.109C88.406,76.141,87.9,76.16,87.385,76.16Z" transform="translate(-7.906 -6.715)" fill="url(#linear-gradient-1)"/>
+    <text id="YourLogo" transform="translate(108.145 78.922)" font-size="56" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">YourLogo</tspan></text>
+  </g>
+</svg>
